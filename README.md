@@ -1,1 +1,1 @@
-how to run the code: 
+how to run the code: g++ -std=c++17 -fopenmp parallel_nbody.cpp -o nbody
